@@ -122,6 +122,14 @@ h3 {
   width: 99.5%;
 }
 
+.link-item img {
+  display: inline-block;
+}
+
+.gallery-item img:hover {
+  cursor: pointer;
+}
+
 .cross-flex {
   max-width: 82%;
   margin: auto;
@@ -138,10 +146,6 @@ h3 {
 
 .link-item {
   margin-left: 3px;
-}
-
-.link-item img {
-  display: inline-block;
 }
 
 .copyright {
