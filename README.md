@@ -12,7 +12,7 @@ The page tries to replicate as much as possible the actual sign up page of apple
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/talhawaqar/html-forms-/f9bcf1e47d7e8e0eab351b42f6bb7fded3eb5e64/index.html)
+[Live Demo Link](https://raw.githack.com/talhawaqar/building-with-backgrounds-and-gradients/adding-apple-page/index.html)
 
 👤 **Author**
 
@@ -20,6 +20,7 @@ The page tries to replicate as much as possible the actual sign up page of apple
 - Linkedin: [@talha-waqar](https://www.linkedin.com/in/talha-waqar-977257145/)
 - Twitter: [@MuhammadTalhaW4](https://twitter.com/MuhammadTalhaW4)
 - email: (talhawaqar007@hotmail.com)
+- email-2: (talhawaqar007@gmail.com)
 
 ## 🤝 Contributing
 
