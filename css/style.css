@@ -41,7 +41,7 @@ h3 {
   width: 93px;
   padding: 8px 0;
   height: 35px;
-  flex:1;
+  flex: 1;
   border-right: 0.5px solid #3e3e3e;
   color: white;
   font-size: 15px;
@@ -66,7 +66,8 @@ h3 {
 }
 
 .navbar input {
-  margin: 0px 5px 0px 10px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 100px;
   height: 20px;
   border-radius: 25px;
