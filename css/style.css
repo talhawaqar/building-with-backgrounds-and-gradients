@@ -12,7 +12,7 @@ h3 {
 }
 
 .hero-bg {
-  width:100%;
+  width: 100%;
   background: url(../images/hero-img.jpg);
   height: 85vh;
   background-repeat: no-repeat;
@@ -54,6 +54,10 @@ h3 {
 .link-item a,
 .copyright {
   margin-right: 2px;
+}
+
+.hero-text h3 a {
+  color: white;
 }
 
 .navbar a:hover {
@@ -109,10 +113,6 @@ h3 {
   font-size: 24px;
   display: inline-block;
   padding-top: 25px;
-}
-
-.hero-text h3 a {
-  color: white;
 }
 
 .hero-text h3:hover {
