@@ -80,6 +80,7 @@ h3 {
 
 .navbar input:focus,
 .navbar input:active {
+  width: 130px;
   outline: none;
 }
 
