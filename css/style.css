@@ -12,19 +12,21 @@ h3 {
 }
 
 .hero-bg {
+  width:100%;
   background: url(../images/hero-img.jpg);
   height: 85vh;
-  background-position: -85px -780px;
   background-repeat: no-repeat;
+  background-size: 112.7%;
+  background-position: bottom;
 }
 
 .navbar {
   position: relative;
-  top: 15%;
+  top: 13.5vh;
   margin: auto;
   display: flex;
   justify-content: flex-start;
-  max-width: 1000px;
+  width: 70%;
   border-radius: 3px;
   background: linear-gradient(180deg, rgb(116, 116, 116) 47%, rgb(87, 87, 87) 48%, rgba(137, 137, 137, 1) 120%);
   border: 0.5px solid #666;
@@ -59,6 +61,7 @@ h3 {
 }
 
 .navbar input {
+  width: 100px;
   height: 20px;
   border-radius: 25px;
   opacity: 50%;
@@ -108,9 +111,17 @@ h3 {
   padding-top: 25px;
 }
 
+.hero-text h3 a {
+  color: white;
+}
+
+.hero-text h3:hover {
+  text-decoration: underline;
+}
+
 .gallery {
   display: flex;
-  margin-top: -2px;
+  margin-top: 1px;
 }
 
 .gallery-item {
