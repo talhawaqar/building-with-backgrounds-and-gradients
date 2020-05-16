@@ -140,10 +140,6 @@ h3 {
   display: inline-block;
 }
 
-.gallery-item img:hover {
-  cursor: pointer;
-}
-
 .cross-flex {
   max-width: 82%;
   margin: auto;
